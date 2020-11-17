@@ -3,5 +3,14 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="Heranca e Polimorfismo"/>
+	<classpathentry kind="src" path="Composition"/>
+	<classpathentry kind="src" path="Conta"/>
+	<classpathentry kind="src" path="Enumeracoes"/>
+	<classpathentry kind="src" path="MediaEstudante"/>
+	<classpathentry kind="src" path="Funcionario"/>
+	<classpathentry kind="src" path="Salario"/>
+	<classpathentry kind="src" path="Retangulo"/>
+	<classpathentry kind="src" path="triangle"/>
+	<classpathentry kind="src" path="quartos"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

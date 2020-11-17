@@ -8,7 +8,7 @@ public class VendaTV {
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		Product product = new Product();
+		Product product = new Product(null, null);
 		System.out.println("Enter product data: ");
 		System.out.print("Name: ");
 		product.name = sc.nextLine();
