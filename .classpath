@@ -12,5 +12,6 @@
 	<classpathentry kind="src" path="Retangulo"/>
 	<classpathentry kind="src" path="triangle"/>
 	<classpathentry kind="src" path="quartos"/>
+	<classpathentry kind="src" path="caminhoArquivo"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
